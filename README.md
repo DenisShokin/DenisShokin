@@ -23,4 +23,3 @@
 ### ![](img/framework_spring-32.png) Spring
 + [Spring Demo](https://github.com/DenisShokin/SimpleSpring) - *Simple example REST-service based on Spring framework*
 + [Country Service](https://github.com/DenisShokin/country-info-service) - *Simple example REST-service based on Spring framework*
-+ **Current job position**: *Senior Full-Stack QA*
