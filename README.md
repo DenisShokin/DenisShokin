@@ -1,4 +1,4 @@
-# ![](img/icon-biography.png) Bio
+# ![](img/icon-biography_64.png) Bio
 
 + **Firstname**: *Denis*
 + **Lastname**: *Shokin*
