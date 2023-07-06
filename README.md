@@ -1,9 +1,10 @@
-# ![](img/icon-biography_64.png) Bio
+# ![](img/icon-biography.png) Bio
 
-+ **Name**: *Denis Shokin*
++ **Firstname**: *Denis*
++ **Lastname**: *Shokin*
 + **Age**: *29 y.o.*
 + **Working experience**: *6+ years*
-+ **Current job position**: *Senior Test Automation Engineer*
++ **Current job position**: *Senior Full-Stack QA*
 
 # ![](img/code_64.png) Projects
 **This is a list of helpful projects created by me**
@@ -22,4 +23,4 @@
 ### ![](img/framework_spring-32.png) Spring
 + [Spring Demo](https://github.com/DenisShokin/SimpleSpring) - *Simple example REST-service based on Spring framework*
 + [Country Service](https://github.com/DenisShokin/country-info-service) - *Simple example REST-service based on Spring framework*
-
++ **Current job position**: *Senior Full-Stack QA*
