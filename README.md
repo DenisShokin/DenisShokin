@@ -16,10 +16,12 @@
 + [CBR](https://github.com/DenisShokin/CBR) - *Example project for validate XML by XSD schema*
 
 ### ![](img/ui_32.png) UI testing
-+ [Spring Cucumber](https://github.com/DenisShokin/Cucumber-spring) - *Cucumber + Spring + Selenide + RestAssured + Allure project example*
-+ [Galen Java](https://github.com/DenisShokin/galen-sample-java-tests) - *Java + Maven + Galen Framework + TestNG project example*
-+ [Appium](https://github.com/DenisShokin/Appium_WikiMobileTest) - *Java + Maven + Appium + Junit project example for Wiki app*
++ [Rangiffler-e2e-tests](https://github.com/DenisShokin/Rangiffler/tree/dev_2/rangiffler-e-2-e-tests) - *Test framework: Java 17, Gradle, Junit5(Extensions, Resolvers), Spring JDBC, Retrofit, Selenide, Allure*
++ [Spring Cucumber](https://github.com/DenisShokin/Cucumber-spring) - *Project example: Cucumber, Spring, Selenide, RestAssured, Allure *
++ [Galen Java](https://github.com/DenisShokin/galen-sample-java-tests) - *Project example: Java + Maven + Galen Framework + TestNG*
++ [Appium](https://github.com/DenisShokin/Appium_WikiMobileTest) - *Java, Maven, Appium, Junit project example for Wiki app*
 
 ### ![](img/framework_spring-32.png) Spring
++ [Rangiffler](https://github.com/DenisShokin/Rangiffler/tree/dev_2) - *QA GURU Java Advanced attestation work*
 + [Spring Demo](https://github.com/DenisShokin/SimpleSpring) - *Simple example REST-service based on Spring framework*
 + [Country Service](https://github.com/DenisShokin/country-info-service) - *Simple example REST-service based on Spring framework*
