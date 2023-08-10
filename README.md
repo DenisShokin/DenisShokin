@@ -22,6 +22,6 @@
 + [Appium](https://github.com/DenisShokin/Appium_WikiMobileTest) - *Java, Maven, Appium, Junit project example for Wiki app*
 
 ### ![](img/framework_spring-32.png) Spring
-+ [Rangiffler](https://github.com/DenisShokin/Rangiffler/tree/dev_2) - *QA GURU Java Advanced attestation work*
++ [Rangiffler](https://github.com/DenisShokin/Rangiffler/tree/main) - *QA GURU Java Advanced attestation work*
 + [Spring Demo](https://github.com/DenisShokin/SimpleSpring) - *Simple example REST-service based on Spring framework*
 + [Country Service](https://github.com/DenisShokin/country-info-service) - *Simple example REST-service based on Spring framework*
